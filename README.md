@@ -1,4 +1,4 @@
-It's August 2023, I moved to Tokyo, and I'm looking for my next job. Here's an overview of the tools I've used and the things that interest me, for whom might consider hiring me:
+Here's an overview of the tools I've used and the things that interest me, for whom might consider hiring me:
 
 
 - Tools I have decent experience with:
