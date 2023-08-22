@@ -8,12 +8,3 @@ Here's an overview of the tools I've used and the things that interest me, for w
 - Other tools I have been exposed to:
 
 ![Static Badge](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white) ![Static Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white) ![Static Badge](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white) ![Static Badge](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Static Badge](https://img.shields.io/badge/flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white) ![Static Badge](https://img.shields.io/badge/SPA%20frameworks-3178C6?style=for-the-badge)
-
-- Some important subjects where I'm lacking, but I plan to get better at:
-
-![Static Badge](https://img.shields.io/badge/SQL-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Mathematics-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Networking-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Computer%20Architecture-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Static Badge](https://img.shields.io/badge/Low%20Level%20Languages-white?style=for-the-badge)
-
-- Direction where I want to pivot in my career, once I'm enough of a generalist:
-  
-![Static Badge](https://img.shields.io/badge/Machine%20Learning%20for%20Robotics-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Functional%20Programming-white?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/MLOPS-white?style=for-the-badge)
-
