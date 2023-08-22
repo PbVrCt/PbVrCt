@@ -1,4 +1,4 @@
-Here's an overview of the tools I've used and the things that interest me, for whom might consider hiring me:
+Here's an overview of most of the tools I've worked with in the past:
 
 
 - Tools I have decent experience with:
